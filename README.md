@@ -17,7 +17,7 @@ This is completely optional, you can directly download it and put it in the *dat
 ## What's next ? Machine learning ? Isn't that just a buzzword to boost your career ?
 Maybe, maybe not. What a cheezy comment anyway.
 
-On a more serious note : I want to play a bit and see if I could do something fun using machine learning techniques. Who knows, maybe there's actually something useful to extract beyond the fun ?
+On a more serious note : I want to play a bit and see if I could do something fun using machine learning techniques. Who knows, maybe there's actually something useful to extract beyond the fun ? I will certainly need more data, maybe scraping next years results would be a good idea.
 
 For now, I have some ideas :
 - Predict a cheese rank outcome (classification),
