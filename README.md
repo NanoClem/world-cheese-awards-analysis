@@ -9,3 +9,6 @@ Not being able to suffer from this ignorance -fearing the worst for my beloved f
 
 ## Dataset
 Dataset taken from [Kaggle](https://www.kaggle.com/datasets/ericsims/world-cheese-awards-worlds-cheesiest-dataset?select=world_cheese_awards_2021.csv). Follow the link for more details about the dataset.
+
+## Going further
+I will maybe if I could do something fun using machine learning techniques.
