@@ -4,7 +4,7 @@ A cheesy analysis of the 2021 World Cheese Awards website, ranking over 1,700 en
 
 ## Just why ?
 
-As a fellow **french-cheese enjoyer**, I am often discovering new cheese, flavors and thus new reasons like countries.
+As a fellow **french-cheese enjoyer**, I am often discovering new cheese, flavors and thus new reasons to like countries.
 But what if France was not the best in this _ancestral_ domain ? What if Switzerland was better ranked ? Even if I have to admit, I really like their cheese.
 
 Not being able to suffer from this ignorance -fearing the worst for my beloved french cheese-, I decided to make up this fun project.
