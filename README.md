@@ -11,17 +11,15 @@ Not being able to suffer from this ignorance -fearing the worst for my beloved f
 Taken from [Kaggle](https://www.kaggle.com/datasets/ericsims/world-cheese-awards-worlds-cheesiest-dataset?select=world_cheese_awards_2021.csv). Follow the link for more details about the dataset.
 
 ### How to get it
-I used the `kaggle` python library to directly download the dataset from my jupyter notebook code. Instructions are in the notebook.  
-This is completely optional, you can directly download it and put it in the *data/* folder.
+I used the [kaggle](https://github.com/Kaggle/kaggle-api) python library to directly download the dataset from my jupyter notebook code. Instructions are in the notebook.  
+This is completely optional, you can directly download it and put it in the *data/* folder.  
 
-
-## ML ? Isn't that just a buzzword to boost your career ?
+## What's next ? Machine learning ? Isn't that just a buzzword to boost your career ?
 Maybe, maybe not. What a cheezy comment anyway.
 
-On a more serious note : I want to play a bit and see if I could do something fun using machine learning techniques. Who knows, maybe there's actually something useful to extract beyond the fun ?  
+On a more serious note : I want to play a bit and see if I could do something fun using machine learning techniques. Who knows, maybe there's actually something useful to extract beyond the fun ?
 
 For now, I have some ideas :
 - Predict a cheese rank outcome (classification),
 - Automatically assign new cheese contestants in their category (classification),
-- Predict cheese trends in countries (this may need sales datasets to cross with !),
-- etc...
+- Predict cheese trends in countries (this may need sales datasets to cross with !)
