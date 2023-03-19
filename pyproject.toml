@@ -13,6 +13,7 @@ numpy = "^1.24.2"
 matplotlib = "^3.7.0"
 seaborn = "^0.12.2"
 kaggle = "^1.5.12"
+geopandas = "^0.12.2"
 
 [tool.poetry.group.dev.dependencies]
 black = "^23.1.0"
